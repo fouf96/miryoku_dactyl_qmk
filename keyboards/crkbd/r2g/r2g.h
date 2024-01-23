@@ -57,4 +57,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   }
 
 
-#define LAYOUT LAYOUT_split_3x6_3
+#define LAYOUT LAYOUT_split_3x5_3
